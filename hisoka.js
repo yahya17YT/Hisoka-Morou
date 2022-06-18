@@ -1171,14 +1171,14 @@ break
                 for (let i of anu) {
                     await sleep(1500)
                     let btn = [{
-                                urlButton: {
-                                    displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                urlButton:
+                                    displayText: 'Youtube',
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
-                                callButton: {
-                                    displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                urlButton: {
+                                    displayText: 'Grup',
+                                    url: 'https://chat.whatsapp.com/HQ3Jb07y3cI8NQBCqZGYfH'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1210,14 +1210,14 @@ break
 		for (let yoi of anu) {
 		    await sleep(1500)
 		    let btn = [{
-                                urlButton: {
-                                    displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                urlButton:
+                                    displayText: 'Youtube',
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
-                                callButton: {
-                                    displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                urlButton: {
+                                    displayText: 'Grup',
+                                    url: 'https://chat.whatsapp.com/HQ3Jb07y3cI8NQBCqZGYfH'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3107,13 +3107,13 @@ let capt = `⭔ Title: ${judul}
 └───────⭓`
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    displayText: 'Grup Yahya17 Store',
+                                    url: 'https://chat.whatsapp.com/HQ3Jb07y3cI8NQBCqZGYfH'
                                 }
                             }, {
-                                callButton: {
-                                    displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                urlButton: {
+                                    displayText: 'Youtube',
+                                    url: 'https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3126,9 +3126,9 @@ let capt = `⭔ Title: ${judul}
                                     id: 'owner'
                                 }  
                             }, {
-                                quickReplyButton: {
-                                    displayText: 'Script',
-                                    id: 'sc'
+                                urlButton: {
+                                    displayText: 'Sewa Bot',
+                                    url: 'https://wa.me/6285784715971'
                                 }
                             }]
                          let setbot = db.data.settings[botNumber]
