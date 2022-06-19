@@ -546,7 +546,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
             case 'sc': {
-                m.reply('Script : https://github.com/DikaArdnt/Hisoka-Morou\n\n Dont Forget Give Star\n\nDonate : 6281615075793 (Link Aja)\nSaweria : https://saweria.co/DikaArdnt\nPaypal : https://www.paypal.me/Cakhaho\n\n Dont Forget Donate')
+                m.reply('Script : https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg\n\n Dont Forget Give Star\n\nDonate\n - *Ovo* : 085784715971\n*Dana* : 085784715971\n*Gopay* : 085484715971\n*Saweria* : https://saweria.co/Yahya17YT\n*Wa* : wa.me/6285784715971/Cakhaho\n\n Dont Forget Donate')
             }
             break
             case 'chat': {
